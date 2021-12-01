@@ -132,6 +132,16 @@ void MainWindow::keyPressEvent(QKeyEvent *e)
       ui->honk_label->setText(QString("close"));
     }
     break;
+  case Qt::Key_C:
+    msg.rearview = !msg.rearview;
+    qDebug()<<msg.rearview;
+    if(msg.rearview==true)
+    {
+      ui->rear_label->setText(QString("open"));
+    }else{
+      ui->rear_label->setText(QString("close"));
+    }
+    break;
 
   }
 }

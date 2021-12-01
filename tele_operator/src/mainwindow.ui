@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>800</width>
-    <height>322</height>
+    <height>335</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -102,7 +102,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>T/G:D1-5 R1-2</string>
+     <string>T/G:D1-7 R1-2</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_8">
@@ -297,6 +297,45 @@
      <rect>
       <x>170</x>
       <y>220</y>
+      <width>67</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>close</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_14">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>260</y>
+      <width>67</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Rearview</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_15">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>260</y>
+      <width>101</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>C:Open/Close</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="rear_label">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>260</y>
       <width>67</width>
       <height>17</height>
      </rect>

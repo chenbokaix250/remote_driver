@@ -5,4 +5,5 @@ int16 gear
 int16 lb
 int16 hb
 int16 hnk
-
+int16 rotate
+int16 rearview
