@@ -98,3 +98,17 @@
 
 ![test.png](https://i.loli.net/2021/12/01/6MHanALXkCquejs.png)
 
+
+### 2021年3月完成初次联调后的链接图
+
+![链接图.jpg](https://s2.loli.net/2022/03/02/ZzO9AesiwknIX5E.jpg)
+
+
+* 重新设计了系统架构 
+* 利用handle处理车辆引导线 并在remote_truck中显示
+* 完成QLabel的提升类 输出笔记
+
+
+需要进行自动化部署 
+
+完成shell自启动和launch启动编写
