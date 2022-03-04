@@ -1,0 +1,12 @@
+Header header
+int16 mode
+int16 speed
+int16 gear
+int16 lb
+int16 hb
+int16 hnk
+int16 rotate
+int16 rearview
+int16 acc_p
+int16 clu_p
+int16 brk_p

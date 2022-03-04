@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+<node pkg="command_handle" name="handle" type="handle.py" output="screen">
+</node>
+
+</launch>
