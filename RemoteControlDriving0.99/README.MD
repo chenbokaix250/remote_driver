@@ -116,3 +116,12 @@ sudo i2cset -f -y 7 0x48 0x33 0x99
 ```
 注:只完成初始化 不启动 避免端口在调用时被占用
 
+---
+
+[操作端shell](https://github.com/chenbokaix250/remote_driver/blob/main/RemoteControlDriving0.99/to_start/start_operator.sh)
+
+[rtsp车载端shell](https://github.com/chenbokaix250/remote_driver/blob/main/RemoteControlDriving0.99/to_start/vehicleStart.sh)
+
+[海康威视车载端shell](https://github.com/chenbokaix250/remote_driver/blob/main/RemoteControlDriving0.99/to_start/vehicleStartH.sh)
+
+
