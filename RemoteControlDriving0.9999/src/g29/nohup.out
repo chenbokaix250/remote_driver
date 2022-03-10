@@ -1,0 +1,437 @@
+[33m[ WARN] [1646359084.779267684]: Couldn't set gain on joystick force feedback: Bad file descriptor[0m
+... logging to /home/chen/.ros/log/873bbdb0-9b5e-11ec-ab62-dc5360b56869/roslaunch-chen-6520.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;g29.launch
+[1mstarted roslaunch server http://chen:43079/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /G29/joy/coalesce_interval: 0.02
+ * /G29/joy/deadzone: 0.05
+ * /G29/joy/default_trig_val: True
+ * /G29/joy/dev: /dev/input/js0
+ * /rosdistro: melodic
+ * /rosversion: 1.14.12
+
+NODES
+  /G29/
+    joy (joy/joy_node)
+
+auto-starting new master
+[1mprocess[master]: started with pid [6531][0m
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;g29.launch http://localhost:11311
+[1msetting /run_id to 873bbdb0-9b5e-11ec-ab62-dc5360b56869[0m
+[1mprocess[rosout-1]: started with pid [6542][0m
+started core service [/rosout]
+[1mprocess[G29/joy-2]: started with pid [6548][0m
+[G29/joy-2] killing on exit
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+[33m[ WARN] [1646359174.023378477]: Couldn't set gain on joystick force feedback: Bad file descriptor[0m
+... logging to /home/chen/.ros/log/bc6eeac0-9b5e-11ec-ab62-dc5360b56869/roslaunch-chen-6687.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;g29.launch
+[1mstarted roslaunch server http://chen:43755/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /G29/joy/coalesce_interval: 0.02
+ * /G29/joy/deadzone: 0.05
+ * /G29/joy/default_trig_val: True
+ * /G29/joy/dev: /dev/input/js0
+ * /rosdistro: melodic
+ * /rosversion: 1.14.12
+
+NODES
+  /G29/
+    joy (joy/joy_node)
+
+auto-starting new master
+[1mprocess[master]: started with pid [6697][0m
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;g29.launch http://localhost:11311
+[1msetting /run_id to bc6eeac0-9b5e-11ec-ab62-dc5360b56869[0m
+[1mprocess[rosout-1]: started with pid [6719][0m
+started core service [/rosout]
+[1mprocess[G29/joy-2]: started with pid [6725][0m
+[G29/joy-2] killing on exit
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+[33m[ WARN] [1646359341.155381127]: Couldn't set gain on joystick force feedback: Bad file descriptor[0m
+... logging to /home/chen/.ros/log/200cffa4-9b5f-11ec-ab62-dc5360b56869/roslaunch-chen-6995.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;g29.launch
+[1mstarted roslaunch server http://chen:35211/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /G29/joy/coalesce_interval: 0.02
+ * /G29/joy/deadzone: 0.05
+ * /G29/joy/default_trig_val: True
+ * /G29/joy/dev: /dev/input/js0
+ * /rosdistro: melodic
+ * /rosversion: 1.14.12
+
+NODES
+  /G29/
+    joy (joy/joy_node)
+
+auto-starting new master
+[1mprocess[master]: started with pid [7019][0m
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;g29.launch http://localhost:11311
+[1msetting /run_id to 200cffa4-9b5f-11ec-ab62-dc5360b56869[0m
+[1mprocess[rosout-1]: started with pid [7033][0m
+started core service [/rosout]
+[1mprocess[G29/joy-2]: started with pid [7039][0m
+[G29/joy-2] killing on exit
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+[33m[ WARN] [1646363363.623364114]: Couldn't set gain on joystick force feedback: Bad file descriptor[0m
+[31m[ERROR] [1646363377.723296682]: Connection to joystick device lost unexpectedly. Will reopen.[0m
+[31m[ERROR] [1646363377.723630932]: Couldn't open joystick /dev/input/js0. Will retry every second.[0m
+[33m[ WARN] [1646363380.887283475]: Couldn't set gain on joystick force feedback: Bad file descriptor[0m
+[31mRLException: run_id on parameter server does not match declared run_id: 1af5733a-9b68-11ec-96c3-e0e1a954e67c vs 9d12f946-9b68-11ec-ab62-dc5360b56869[0m
+[31mThe traceback for the exception was written to the log file[0m
+... logging to /home/chen/.ros/log/9d12f946-9b68-11ec-ab62-dc5360b56869/roslaunch-chen-10167.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;g29.launch
+[1mstarted roslaunch server http://chen:45103/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /G29/joy/coalesce_interval: 0.02
+ * /G29/joy/deadzone: 0.05
+ * /G29/joy/default_trig_val: True
+ * /G29/joy/dev: /dev/input/js0
+ * /rosdistro: melodic
+ * /rosversion: 1.14.12
+
+NODES
+  /G29/
+    joy (joy/joy_node)
+
+[1mROS_MASTER_URI=http://nvidia-desktop:11311[0m
+]2;g29.launch http://nvidia-desktop:11311
+... logging to /home/chen/.ros/log/1af5733a-9b68-11ec-96c3-e0e1a954e67c/roslaunch-chen-10441.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;g29.launch
+[1mstarted roslaunch server http://chen:38271/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /G29/joy/coalesce_interval: 0.02
+ * /G29/joy/deadzone: 0.05
+ * /G29/joy/default_trig_val: True
+ * /G29/joy/dev: /dev/input/js0
+ * /rosdistro: melodic
+ * /rosversion: 1.14.12
+
+NODES
+  /G29/
+    joy (joy/joy_node)
+
+[1mROS_MASTER_URI=http://nvidia-desktop:11311[0m
+]2;g29.launch http://nvidia-desktop:11311
+[1mprocess[G29/joy-1]: started with pid [10466][0m
+[G29/joy-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+[31mWARNING: ROS_MASTER_URI [http://nvidia-desktop:11311] host is not set to this machine[0m
+[33m[ WARN] [1646363433.367337203]: Couldn't set gain on joystick force feedback: Bad file descriptor[0m
+... logging to /home/chen/.ros/log/1af5733a-9b68-11ec-96c3-e0e1a954e67c/roslaunch-chen-10642.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;roscore
+[1mstarted roslaunch server http://chen:44205/[0m
+ros_comm version 1.14.12
+
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: melodic
+ * /rosversion: 1.14.12
+
+NODES
+
+auto-starting new master
+[1mprocess[master]: started with pid [10676][0m
+[1mROS_MASTER_URI=http://chen:11311/[0m
+]2;roscore http://chen:11311/
+[1msetting /run_id to 1af5733a-9b68-11ec-96c3-e0e1a954e67c[0m
+[1mprocess[rosout-1]: started with pid [10692][0m
+started core service [/rosout]
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+... logging to /home/chen/.ros/log/1af5733a-9b68-11ec-96c3-e0e1a954e67c/roslaunch-chen-10643.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;g29.launch
+[1mstarted roslaunch server http://chen:40733/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /G29/joy/coalesce_interval: 0.02
+ * /G29/joy/deadzone: 0.05
+ * /G29/joy/default_trig_val: True
+ * /G29/joy/dev: /dev/input/js0
+ * /rosdistro: melodic
+ * /rosversion: 1.14.12
+
+NODES
+  /G29/
+    joy (joy/joy_node)
+
+[1mROS_MASTER_URI=http://nvidia-desktop:11311[0m
+]2;g29.launch http://nvidia-desktop:11311
+[1mprocess[G29/joy-1]: started with pid [10679][0m
+[G29/joy-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+[31mWARNING: ROS_MASTER_URI [http://nvidia:11311] host is not set to this machine[0m
+[31mRLException: ERROR: unable to contact ROS master at [http://nvidia:11311][0m
+[31mThe traceback for the exception was written to the log file[0m
+... logging to /home/chen/.ros/log/be920c1a-9b68-11ec-ab62-dc5360b56869/roslaunch-chen-10790.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;g29.launch
+[1mstarted roslaunch server http://chen:39925/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /G29/joy/coalesce_interval: 0.02
+ * /G29/joy/deadzone: 0.05
+ * /G29/joy/default_trig_val: True
+ * /G29/joy/dev: /dev/input/js0
+ * /rosdistro: melodic
+ * /rosversion: 1.14.12
+
+NODES
+  /G29/
+    joy (joy/joy_node)
+
+... logging to /home/chen/.ros/log/be8e64b6-9b68-11ec-ab62-dc5360b56869/roslaunch-chen-10789.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;roscore
+[1mstarted roslaunch server http://chen:36191/[0m
+ros_comm version 1.14.12
+
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: melodic
+ * /rosversion: 1.14.12
+
+NODES
+
+auto-starting new master
+[1mprocess[master]: started with pid [10820][0m
+[1mROS_MASTER_URI=http://chen:11311/[0m
+]2;roscore http://chen:11311/
+[1msetting /run_id to be8e64b6-9b68-11ec-ab62-dc5360b56869[0m
+[1mprocess[rosout-1]: started with pid [10834][0m
+started core service [/rosout]
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+[31mWARNING: ROS_MASTER_URI [http://nvidia:11311] host is not set to this machine[0m
+[33m[ WARN] [1646363539.619387443]: Couldn't set gain on joystick force feedback: Bad file descriptor[0m
+... logging to /home/chen/.ros/log/1af5733a-9b68-11ec-96c3-e0e1a954e67c/roslaunch-chen-11097.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;g29.launch
+[1mstarted roslaunch server http://chen:34335/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /G29/joy/coalesce_interval: 0.02
+ * /G29/joy/deadzone: 0.05
+ * /G29/joy/default_trig_val: True
+ * /G29/joy/dev: /dev/input/js0
+ * /rosdistro: melodic
+ * /rosversion: 1.14.12
+
+NODES
+  /G29/
+    joy (joy/joy_node)
+
+[1mROS_MASTER_URI=http://nvidia:11311[0m
+]2;g29.launch http://nvidia:11311
+[1mprocess[G29/joy-1]: started with pid [11134][0m
+[G29/joy-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+... logging to /home/chen/.ros/log/1af5733a-9b68-11ec-96c3-e0e1a954e67c/roslaunch-chen-11096.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;roscore
+[1mstarted roslaunch server http://chen:46759/[0m
+ros_comm version 1.14.12
+
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: melodic
+ * /rosversion: 1.14.12
+
+NODES
+
+auto-starting new master
+[1mprocess[master]: started with pid [11128][0m
+[1mROS_MASTER_URI=http://chen:11311/[0m
+]2;roscore http://chen:11311/
+[1msetting /run_id to 1af5733a-9b68-11ec-96c3-e0e1a954e67c[0m
+[1mprocess[rosout-1]: started with pid [11147][0m
+started core service [/rosout]
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+[33m[ WARN] [1646363556.843367828]: Couldn't set gain on joystick force feedback: Bad file descriptor[0m
+... logging to /home/chen/.ros/log/1af5733a-9b68-11ec-96c3-e0e1a954e67c/roslaunch-chen-11236.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;g29.launch
+[1mstarted roslaunch server http://chen:43217/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /G29/joy/coalesce_interval: 0.02
+ * /G29/joy/deadzone: 0.05
+ * /G29/joy/default_trig_val: True
+ * /G29/joy/dev: /dev/input/js0
+ * /rosdistro: melodic
+ * /rosversion: 1.14.12
+
+NODES
+  /G29/
+    joy (joy/joy_node)
+
+[1mROS_MASTER_URI=http://nvidia:11311[0m
+]2;g29.launch http://nvidia:11311
+[1mprocess[G29/joy-1]: started with pid [11261][0m
+[G29/joy-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+[33m[ WARN] [1646363692.603273376]: Couldn't set gain on joystick force feedback: Bad file descriptor[0m
+... logging to /home/chen/.ros/log/56f2286e-9b69-11ec-bd6d-e0e1a954e67c/roslaunch-chen-11464.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;g29.launch
+[1mstarted roslaunch server http://chen:40885/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /G29/joy/coalesce_interval: 0.02
+ * /G29/joy/deadzone: 0.05
+ * /G29/joy/default_trig_val: True
+ * /G29/joy/dev: /dev/input/js0
+ * /rosdistro: melodic
+ * /rosversion: 1.14.12
+
+NODES
+  /G29/
+    joy (joy/joy_node)
+
+[1mROS_MASTER_URI=http://nvidia:11311[0m
+]2;g29.launch http://nvidia:11311
+[1mprocess[G29/joy-1]: started with pid [11489][0m
+[G29/joy-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+[33m[ WARN] [1646363953.111338280]: Couldn't set gain on joystick force feedback: Bad file descriptor[0m
+... logging to /home/chen/.ros/log/ef5dcf9a-9b69-11ec-9e9e-e0e1a954e67c/roslaunch-chen-11774.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;g29.launch
+[1mstarted roslaunch server http://chen:45977/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /G29/joy/coalesce_interval: 0.02
+ * /G29/joy/deadzone: 0.05
+ * /G29/joy/default_trig_val: True
+ * /G29/joy/dev: /dev/input/js0
+ * /rosdistro: melodic
+ * /rosversion: 1.14.12
+
+NODES
+  /G29/
+    joy (joy/joy_node)
+
+[1mROS_MASTER_URI=http://nvidia:11311[0m
+]2;g29.launch http://nvidia:11311
+[1mprocess[G29/joy-1]: started with pid [11800][0m
+[G29/joy-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m

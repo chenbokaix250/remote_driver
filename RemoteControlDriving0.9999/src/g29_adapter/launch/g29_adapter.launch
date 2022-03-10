@@ -1,0 +1,19 @@
+<launch>
+  <rosparam>
+  <!--油门深踩-->
+  acc_plus_1: 5
+  <!--刹车深踩-->
+  acc_sub_1: 5
+  <!--油门浅踩-->
+  acc_plus_2: 2
+  <!--刹车浅踩-->
+  acc_sub_2: 2
+  <!--转向系数-->
+  rotate_param: 45
+  <!--车速限制-->
+  speed_limit: 45
+  <!--倒车车速限制-->
+  reversing_speed_limit: 15
+</rosparam>
+  <node pkg="g29_adapter" type="g29_adapter" name="g29_adapter" output="screen"/>
+</launch>

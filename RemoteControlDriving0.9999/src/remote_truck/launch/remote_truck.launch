@@ -1,0 +1,3 @@
+<launch>
+   <node pkg="remote_truck" type="remote_truck" name="remote_truck" output="screen"/>
+</launch>
